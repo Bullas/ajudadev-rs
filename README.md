@@ -8,7 +8,9 @@ https://sos-rs.com
 
 Sistema de gestão de abrigos
 
-Mais informações sobre como contribuir: https://github.com/SOS-RS
+https://github.com/SOS-RS
+
+Mais informações sobre como contribuir:  https://discord.gg/KGFMeGSe
 
 [ React / Node ]
 
