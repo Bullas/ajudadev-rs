@@ -29,5 +29,9 @@ Mais informações sobre como contribuir no discord: https://discord.com/invite/
 ## Arca Animal
 Iniciativa para conectar abrigos de animais que precisam de doação com locais que possuem doação para suprir demandas
 
+## Help You
+Iniciativa para conectar voluntários ou profissionais da saúde no
+apoio dentro de abrigos para pessoas que precisam de apoio(ou estadia momentanea no local) e não tenha ninguém familiar ou proximo para acomapnhar seus sinais vitais, troca de curativos e/ou de remedios emergenciais
+
 Mais informações sobre como contribuir nesse [post do LinkedIn](https://www.linkedin.com/posts/carinezanotto_tech-uxwriting-designconversacional-activity-7195926836315340801-q6Zi?utm_source=share&utm_medium=member_desktop)
 
