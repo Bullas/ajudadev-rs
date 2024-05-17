@@ -50,3 +50,5 @@ O SOS Pet é um sistema que ajuda a conectar animais resgatados de enchentes com
 Repositório: https://github.com/emiliosheinz/sos-pet
 
 Website: https://www.sos-pet.org/
+
+[ TypeScript / React / Next.JS / tRPC / Prisma ]
