@@ -33,3 +33,11 @@ Iniciativa para conectar abrigos de animais que precisam de doação com locais 
 
 Mais informações sobre como contribuir nesse [post do LinkedIn](https://www.linkedin.com/posts/carinezanotto_tech-uxwriting-designconversacional-activity-7195926836315340801-q6Zi?utm_source=share&utm_medium=member_desktop)
 
+## FindYourPet
+
+Aplicativo para encontrar animais perdidos, informar animais encontrados ou que estão em adoção.
+
+Atualmente necessita de um sistema de mapeamento e uma versão mobile e ambas não estão funcionando no momento, para chegar a mais gente e ajudar ainda mais o aplicativo a alcançar quem precisa.
+
+Repositório: https://github.com/yagasaki7k/website-findyourpet
+Website: https://findyourpet.vercel.app
