@@ -43,6 +43,17 @@ Repositório: https://github.com/yagasaki7k/website-findyourpet
 
 Website: https://findyourpet.vercel.app
 
+## Let's Help RS
+https://letshelprs.online
+
+Sistema de gestão de pontos de coleta de suprimentos.
+
+https://github.com/lets-help-rs
+
+Atualmente precisamos de melhorias na responsividade com Safari em telas menores e melhorias na UI. 
+Estamos trabalhando em um app com Webview.
+
+[ React / Node ]
 
 ## Ajuda Tchê
 
@@ -105,4 +116,3 @@ Repositório: https://github.com/emiliosheinz/sos-pet
 Website: https://www.sos-pet.org/
 
 [ TypeScript / React / Next.JS / tRPC / Prisma ]
-
