@@ -42,3 +42,13 @@ Atualmente necessita de um sistema de mapeamento e uma versão mobile e ambas n�
 Repositório: https://github.com/yagasaki7k/website-findyourpet
 
 Website: https://findyourpet.vercel.app
+
+## SOS Pet
+
+O SOS Pet é um sistema que ajuda a conectar animais resgatados de enchentes com abrigos temporários. Nele, quem resgata animais pode encontrar rapidamente abrigos próximos com vagas disponíveis e obter informações importantes como capacidade, contato e localização. Além disso, pessoas que querem doar ou se voluntariar podem ver o que cada abrigo precisa.
+
+Repositório: https://github.com/emiliosheinz/sos-pet
+
+Website: https://www.sos-pet.org/
+
+[ TypeScript / React / Next.JS / tRPC / Prisma ]
