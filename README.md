@@ -116,3 +116,11 @@ Repositório: https://github.com/emiliosheinz/sos-pet
 Website: https://www.sos-pet.org/
 
 [ TypeScript / React / Next.JS / tRPC / Prisma ]
+
+## River Level Brasil
+
+O objetivo do projeto é criar um site para monitorar os níveis dos rios em todo o Brasil. A ideia surgiu após as enchentes no Rio Grande do Sul, quando a população precisava de informações mais acessíveis para tomar decisões. A plataforma busca oferecer dados transparentes e facilitar o acesso a informações importantes.
+
+Repositório: https://github.com/TheMartinfer22/river-level-brasil
+
+Website: https://snirh.nanosync.dev/
