@@ -3,6 +3,56 @@ Esse repositório é uma curadoria  de iniciativas para ajudar o Rio Grande do S
 
 Para contribuir, adicione novas iniciativas através de um Pull Request. (Todas as sugestões passarão por uma curadoria antes de aprovadas para verificar a autenticidade)
 
+## Categorias
+
+- [Geral](#geral)
+- [Abrigos](#abrigos)
+- [Doações e suprimentos](#doações-e-suprimentos)
+- [Animais](#animais)
+
+<br/> 
+
+# Geral
+
+## Rs Help Center
+
+O intuito desse site é auxiliar na busca e ajuda para pessoas que estão passando pelo desastre no Rio Grande do Sul.
+
+O projeto RS Help Center é voltado totalmente para ajuda social sem fins lucrativos
+
+O RS Help Center ou RHC foi criado por Kevin Uehara porém é um projeto Open Source para que as pessoas possam contribuir cada vez mais com o projeto.
+
+Empatia e soliedariedade pelas vítimas do desastre ❤️
+
+https://github.com/kevinuehara/rs-help-center
+
+## Encontre RS
+
+Servidor backend para aplicação voluntária do Rio Grande do Sul
+
+https://github.com/pedroafabri/encontre-rs-server
+https://github.com/GustavoBarbos/encontre-rs-front
+
+
+## Central RS
+
+CentralRS é uma iniciativa comunitária que reúne soluções proprietárias e externas, todas voltadas para enfrentar os desafios decorrentes das recentes chuvas e rompimentos de barragens no RS. Nosso objetivo é centralizar e facilitar o acesso dos usuários a essas aplicações vitais, oferecendo um front-end intuitivo e informativo. Além disso, servimos como um indexador para as soluções criadas pela comunidade, incentivando a colaboração e o compartilhamento de conhecimento. 
+
+https://github.com/4rthuurr/centralrs
+
+<br/> 
+
+## River Level Brasil
+
+O objetivo do projeto é criar um site para monitorar os níveis dos rios em todo o Brasil. A ideia surgiu após as enchentes no Rio Grande do Sul, quando a população precisava de informações mais acessíveis para tomar decisões. A plataforma busca oferecer dados transparentes e facilitar o acesso a informações importantes.
+
+Repositório: https://github.com/TheMartinfer22/river-level-brasil
+
+Website: https://snirh.nanosync.dev/
+
+# Abrigos
+
+
 ## SOS Rio Grande do Sul
 https://sos-rs.com
 
@@ -14,12 +64,59 @@ Mais informações sobre como contribuir:  https://discord.gg/KGFMeGSe
 
 [ React / Node ]
 
+<br/> 
+
+# Resgate
+
+
+## Rescue / Desabrigados
+
+O projeto desabrigados está sendo desenvolvido para auxiliar as vítimas das enchentes que assolaram o estado do Rio Grande do Sul em 2024. O principal objetivo é conectar as equipes de resgate com as pessoas que precisam ser resgatadas nas áreas atingidas pelas enchentes.
+
+https://github.com/JoiaribeAlves/rescue
+https://desabrigados.com.br/
+
+<br/> 
+
+# Doações e suprimentos
+
+
+## Let's Help RS
+https://letshelprs.online
+
+Sistema de gestão de pontos de coleta de suprimentos.
+
+https://github.com/lets-help-rs
+
+Atualmente precisamos de melhorias na responsividade com Safari em telas menores e melhorias na UI. 
+Estamos trabalhando em um app com Webview.
+
+[ React / Node ]
+
+## Ajuda Tchê
+
+Software para o gerenciamento da entrega das doações.
+
+https://github.com/lucassaraiva5/ajuda-tche
+https://ajudatche.com/
+
 ## CooPartilhar
 O comunidade Flutterando está criando um aplicativo para gestão e distribuição de doações para direcionar a quem precisa dos recursos.
 
 Mais informações sobre como contribuir no discord: http://discord.flutterando.com.br
 
 [ Flutter / Node ]
+
+## SOS Rio Grande Do Sul (Brasília)
+
+Este site foi criado para disponibilizar informações sobre os pontos de doação em Brasília destinados a auxiliar as vítimas das recentes calamidades no Rio Grande do Sul.
+
+https://github.com/Gabrielbsb21/sos-rio-grande-do-sul
+
+<br/> 
+
+# Animais
+
 
 ## ScoobyDoo Cadê você?
 Essa iniciativa esta criando um bot para whatsapp com intuito de ajudar donos de animais encontrarem seus bichinhos
@@ -43,64 +140,6 @@ Repositório: https://github.com/yagasaki7k/website-findyourpet
 
 Website: https://findyourpet.vercel.app
 
-## Let's Help RS
-https://letshelprs.online
-
-Sistema de gestão de pontos de coleta de suprimentos.
-
-https://github.com/lets-help-rs
-
-Atualmente precisamos de melhorias na responsividade com Safari em telas menores e melhorias na UI. 
-Estamos trabalhando em um app com Webview.
-
-[ React / Node ]
-
-## Ajuda Tchê
-
-Software para o gerenciamento da entrega das doações.
-
-https://github.com/lucassaraiva5/ajuda-tche
-https://ajudatche.com/
-
-
-## Rs Help Center
-
-O intuito desse site é auxiliar na busca e ajuda para pessoas que estão passando pelo desastre no Rio Grande do Sul.
-
-O projeto RS Help Center é voltado totalmente para ajuda social sem fins lucrativos
-
-O RS Help Center ou RHC foi criado por Kevin Uehara porém é um projeto Open Source para que as pessoas possam contribuir cada vez mais com o projeto.
-
-Empatia e soliedariedade pelas vítimas do desastre ❤️
-
-https://github.com/kevinuehara/rs-help-center
-
-## Encontre RS
-
-Servidor backend para aplicação voluntária do Rio Grande do Sul
-
-https://github.com/pedroafabri/encontre-rs-server
-https://github.com/GustavoBarbos/encontre-rs-front
-
-## SOS Rio Grande Do Sul (Brasília)
-
-Este site foi criado para disponibilizar informações sobre os pontos de doação em Brasília destinados a auxiliar as vítimas das recentes calamidades no Rio Grande do Sul.
-
-https://github.com/Gabrielbsb21/sos-rio-grande-do-sul
-
-## Central RS
-
-CentralRS é uma iniciativa comunitária que reúne soluções proprietárias e externas, todas voltadas para enfrentar os desafios decorrentes das recentes chuvas e rompimentos de barragens no RS. Nosso objetivo é centralizar e facilitar o acesso dos usuários a essas aplicações vitais, oferecendo um front-end intuitivo e informativo. Além disso, servimos como um indexador para as soluções criadas pela comunidade, incentivando a colaboração e o compartilhamento de conhecimento. 
-
-https://github.com/4rthuurr/centralrs
-
-## Rescue / Desabrigados
-
-O projeto desabrigados está sendo desenvolvido para auxiliar as vítimas das enchentes que assolaram o estado do Rio Grande do Sul em 2024. O principal objetivo é conectar as equipes de resgate com as pessoas que precisam ser resgatadas nas áreas atingidas pelas enchentes.
-
-https://github.com/JoiaribeAlves/rescue
-https://desabrigados.com.br/
-
 ## SOS PetRS
 
 Projeto para ajudar a encontrar animais de estimação perdidos no Rio Grande do Sul e gerenciar abrigos de animais existentes, como lotação, doações, estoque e disponibilidade.
@@ -117,10 +156,3 @@ Website: https://www.sos-pet.org/
 
 [ TypeScript / React / Next.JS / tRPC / Prisma ]
 
-## River Level Brasil
-
-O objetivo do projeto é criar um site para monitorar os níveis dos rios em todo o Brasil. A ideia surgiu após as enchentes no Rio Grande do Sul, quando a população precisava de informações mais acessíveis para tomar decisões. A plataforma busca oferecer dados transparentes e facilitar o acesso a informações importantes.
-
-Repositório: https://github.com/TheMartinfer22/river-level-brasil
-
-Website: https://snirh.nanosync.dev/
