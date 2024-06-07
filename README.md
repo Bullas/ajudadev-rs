@@ -116,3 +116,10 @@ Repositório: https://github.com/emiliosheinz/sos-pet
 Website: https://www.sos-pet.org/
 
 [ TypeScript / React / Next.JS / tRPC / Prisma ]
+
+## RS UNION SENSE
+Construído com fins informativos e para armazenar e compartilhar o impacto da enchente na vida das pessoas no Rio Grande do Sul. Queremos contar histórias reais e profundas das pessoas afetadas pela enchente, histórias que muitas vezes não são contadas pelos meios de comunicação tradicionais.
+
+https://rsunionsense.xyz/
+
+
